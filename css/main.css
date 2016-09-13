@@ -18,7 +18,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 600; 
+  font-weight: 200; 
   font-family: 'Open Sans', sans-serif;
   color:#4e4e4e;
 }
@@ -573,7 +573,7 @@ input.search-form:hover {
   -o-transition: 500ms;
   transition: 500ms;
   float: left;
-  margin-right: 25px;
+  margin-right: 45px;
 }
 
 .feature-wrap i:hover {
